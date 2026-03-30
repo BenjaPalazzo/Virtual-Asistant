@@ -1,0 +1,41 @@
+# 🐍 Entorno virtual
+venv/
+.env
+
+# 🧠 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Distribución / build
+build/
+dist/
+*.egg-info/
+
+# 📄 Logs
+*.log
+
+# 💻 Sistema operativo
+.DS_Store
+Thumbs.db
+
+# 🧪 Archivos temporales
+*.tmp
+*.temp
+
+# 🔐 Archivos sensibles
+.env.*
+*.key
+
+# 🧠 Jupyter (por si usás)
+.ipynb_checkpoints/
+
+# ⚙️ IDEs
+.vscode/
+.idea/
+
+# 🗂️ Archivos grandes opcionales (descomentar si no querés subirlos)
+# *.pkl
+# dataset/
+# modelos/

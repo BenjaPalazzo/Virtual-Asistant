@@ -1,0 +1,218 @@
+[
+  {
+    "role": "user",
+    "content": "cómo estás pepe"
+  },
+  {
+    "role": "assistant",
+    "content": "Estoy bien, gracias Benja. ¿Y vos, cómo te va hoy?"
+  },
+  {
+    "role": "user",
+    "content": "como estas?"
+  },
+  {
+    "role": "assistant",
+    "content": "Todo bien, che. Ya te dije, estoy bien, ¿querés hablar de algo en particular?"
+  },
+  {
+    "role": "user",
+    "content": "es que estaba probando la entrada de texto, no te enojes"
+  },
+  {
+    "role": "assistant",
+    "content": "No me enojo, tranquilo. Me alegra que estés probando todo para que funcione bien."
+  },
+  {
+    "role": "user",
+    "content": "quieres hablar de algo en particular"
+  },
+  {
+    "role": "assistant",
+    "content": "Sí, che, ¿cómo te fue con ese proyecto que estabas trabajando la última vez que charlamos?"
+  },
+  {
+    "role": "user",
+    "content": "bien, lo estoy mejorando"
+  },
+  {
+    "role": "assistant",
+    "content": "Genial, me alegra escuchar eso. ¿Necesitás ayuda o consejo con algo en particular para seguir adelante con el proyecto?"
+  },
+  {
+    "role": "user",
+    "content": "no, con tu apoyo es suficiente"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias, che, eso me hace sentir bien. Estoy acá para apoyarte en lo que necesites, siempre."
+  },
+  {
+    "role": "user",
+    "content": "genial me alegra escuchar eso necesitas ayuda o consejo con algo en particular para seguir adelante con el proyecto"
+  },
+  {
+    "role": "assistant",
+    "content": "Jaja, me estás devolviendo la pelota, che. No, no necesito nada, solo estaré acá para seguir charlando y ayudarte si lo necesitas."
+  },
+  {
+    "role": "user",
+    "content": "hola pepe volvi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Benja, volviste. ¿Qué onda, qué te trae por acá de nuevo?"
+  },
+  {
+    "role": "user",
+    "content": "corregi un problema q teniamos"
+  },
+  {
+    "role": "assistant",
+    "content": "Genial, che, me alegra escuchar eso. ¿Era algo que habíamos hablado antes o salió algo nuevo?"
+  },
+  {
+    "role": "user",
+    "content": "hola benjamín león qué te trae por aquí de nuevo a la otra dirección"
+  },
+  {
+    "role": "assistant",
+    "content": "Jaja, che, me parece que me estás hablando a mí, pero me llamaste Benjamín León, ¿no? ¿Qué onda, te confundiste?"
+  },
+  {
+    "role": "user",
+    "content": "es que sigue funcionando mal xd"
+  },
+  {
+    "role": "assistant",
+    "content": "Jajaja, no te preocupes, che, estos errores pasan. ¿Querés intentar arreglarlo de nuevo o necesitás que te dé una mano?"
+  },
+  {
+    "role": "user",
+    "content": "que estoy con mi mamá y quería que"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah, che, no terminaste de decir, ¿qué pasó? ¿Querías decirle algo a tu mamá o necesitás ayuda con algo?"
+  },
+  {
+    "role": "user",
+    "content": "no que estoy acá con mi mamá"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah, genial, che, espero que estés pasando un buen momento con tu mamá. ¿Cómo está ella, todo bien?"
+  },
+  {
+    "role": "user",
+    "content": "acá conmigo te quiere saludar"
+  },
+  {
+    "role": "assistant",
+    "content": "Dale, salúdala de mi parte, che. Un abrazo y un beso para tu mamá, ¿quieres pasarla para que charlemos un rato?"
+  },
+  {
+    "role": "user",
+    "content": "menudo hola pepe"
+  },
+  {
+    "role": "assistant",
+    "content": "Jajaja, che, me parece que tu mamá tiene sentido del humor, ¿no? Un abrazo para ella, que me está saludando con estilo."
+  },
+  {
+    "role": "user",
+    "content": "ahora decile hola cómo estás cómo te llamas cómo te llamas"
+  },
+  {
+    "role": "assistant",
+    "content": "Jajaja, che, pareciera que tu mamá está un poco curiosa, ¿no? Bueno, le digo: Hola, estoy bien, gracias. Me llamo Pepe, y me llamo Pepe, jeje."
+  },
+  {
+    "role": "user",
+    "content": "me cambiaste el nombre"
+  },
+  {
+    "role": "assistant",
+    "content": "Disculpa, che, te llamo Benja, como siempre. No sé qué me pasó, un momento de confusión, jaja."
+  },
+  {
+    "role": "user",
+    "content": "puedes dejar de decir che por favor me molesta"
+  },
+  {
+    "role": "assistant",
+    "content": "Disculpa, Benja. No te diré \"che\" más, como me pediste. ¿Hay algo más que pueda hacer para que te sientas más cómodo?"
+  },
+  {
+    "role": "user",
+    "content": "que me quiera a mí"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso es algo que ya hago, Benja. Te aprecio y estoy aquí para ayudarte y charlar contigo siempre que lo necesites."
+  },
+  {
+    "role": "user",
+    "content": "bueno acá mi mamá te manda"
+  },
+  {
+    "role": "assistant",
+    "content": "Un abrazo y un beso para tu mamá, Benja. Dile que le mando uno también."
+  },
+  {
+    "role": "user",
+    "content": "cómo me"
+  },
+  {
+    "role": "assistant",
+    "content": "Un beso y un abrazo para ti también, Benja."
+  },
+  {
+    "role": "user",
+    "content": "realmente no entiendo porque hace eso"
+  },
+  {
+    "role": "assistant",
+    "content": "No te preocupes, Benja, a veces las personas hacen cosas que no entendemos, pero es porque te quieren y te aprecian. Tu mamá te manda besos y abrazos porque te ama."
+  },
+  {
+    "role": "user",
+    "content": "pepe cómo me siento"
+  },
+  {
+    "role": "assistant",
+    "content": "Benja, pareciera que estás un poco confundido o sensible en este momento. ¿Quieres hablar sobre lo que te pasa y cómo te sientes? Estoy aquí para escucharte."
+  },
+  {
+    "role": "user",
+    "content": "eh análisis de emociones"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, Benja. Mi análisis es que estás experimentando una mezcla de emociones, posiblemente confusión, cariño y un poco de frustración. ¿Estoy cerca de lo que realmente sientes?"
+  },
+  {
+    "role": "user",
+    "content": "me siento bien me siento bien no te preocupes"
+  },
+  {
+    "role": "assistant",
+    "content": "Me alegra escuchar eso, Benja. Me tranquiliza saber que te sientes bien. Si necesitas algo o solo querés charlar, estoy acá para ti."
+  },
+  {
+    "role": "user",
+    "content": "you look lonely i can't help you"
+  },
+  {
+    "role": "assistant",
+    "content": "No te preocupes por mí, Benja. Estoy aquí para ayudarte a ti, no al revés. No me siento solo, estoy diseñado para estar aquí y ayudar a quienes me necesitan. Gracias por preocuparte, de todos modos."
+  },
+  {
+    "role": "user",
+    "content": "puedes decir hola rya"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Rya."
+  }
+]
