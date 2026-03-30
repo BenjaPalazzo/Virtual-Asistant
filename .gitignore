@@ -37,5 +37,5 @@ Thumbs.db
 
 # 🗂️ Archivos grandes opcionales (descomentar si no querés subirlos)
 # *.pkl
-# dataset/
-# modelos/
+dataset/
+modelos/
